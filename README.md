@@ -10,7 +10,7 @@ Trabalho na Marktel com suporte técnico e automação de agentes de IA. Atualme
 👯 Aberto a colaborar em projetos de automação, integrações e infraestrutura
 
 
-*🛠️ Tecnologias:*
+🛠️ Tecnologias:
 
 Show Image
 
