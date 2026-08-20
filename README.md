@@ -30,7 +30,6 @@ Observabilidade (Prometheus/Grafana)	⬜ Planejado<br>
 🛠️ Tecnologias & Ferramentas
 <p align="left"> <img src="https://skillicons.dev/icons?i=linux,git,github,docker,python,java,nodejs,postgres,aws,githubactions,html,css,js,vscode" /> </p>
 
-Automação & Integrações: n8n · WhatsApp Business API · SMS · Chatwoot
 
 <br>
 
